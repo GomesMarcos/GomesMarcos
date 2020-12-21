@@ -6,8 +6,11 @@
   <img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
 </a>
 
+<br>
+
 - 🔭 I’m currently working on Montreal Informatica - Salvador - Bahia - Brazil 🇧🇷
-- 🌱 I’m currently learning Django and DRF. My current goal is to develop a Bonsai Managemant API. I think it'll be better than schedule on Mobile's Calendar.
+- 🌱 I’m currently learning Django and DRF.
+- 🎯 My current goal is to develop a Bonsai Managemant API. I think it'll be better than schedule on Mobile's Calendar.
 
 
 ### Connect with me: 
