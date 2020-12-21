@@ -1,10 +1,9 @@
+
 # Hi there 👋
-[<img alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg"> ][brain]
+[<img align="center" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg"> ][brain]
 
 - 🔭 I’m currently working on Montreal Informatica - Salvador - Bahia - Brazil 🇧🇷
-- 🌱 I’m currently learning Dj[<img alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg"> ][brain]
-
-ango and DRF. My current goal is to develop a Bonsai Managemant API. I think it'll be better than schedule on Mobile's Calendar.
+- 🌱 I’m currently learning Django and DRF. My current goal is to develop a Bonsai Managemant API. I think it'll be better than schedule on Mobile's Calendar.
 
 
 ### Connect with me: 
