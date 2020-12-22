@@ -2,9 +2,18 @@
 
 # Hi there 👋
 
-<a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">
-  <img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
-</a>
+### SVG Is a passion
+
+#### I Turned it 
+
+<img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
+
+#### Into this:
+
+<img alt="GomesMarcos | CodePen Brain" src="https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif">
+
+
+<a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">Check it out!!🤓</a>
 
 <br>
 
