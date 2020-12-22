@@ -1,6 +1,3 @@
-
-
-
 # Hi there 👋
 
 ### SVG Is a passion
@@ -10,14 +7,9 @@
 <img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
 
 #### Into this:
-
-
-![Image](https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif)
-
-<img alt="GomesMarcos | CodePen Brain" src="">
-
+[![Brain pulse](https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif "Brain pulse")](https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif "Brain pulse")
+<br>
 <a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">Check it out!!🤓</a>
-
 <br>
 
 - 🔭 I’m currently working on Montreal Informatica - Salvador - Bahia - Brazil 🇧🇷
@@ -32,5 +24,3 @@
 
 [codepen]: https://codepen.io/gomesmarcos
 [linkedin]: https://www.linkedin.com/in/marcos-gomes-73a520122/
-
-
