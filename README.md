@@ -1,5 +1,3 @@
-
-
 # Hi there 👋
 
 ### SVG Is a passion
@@ -11,7 +9,6 @@
 #### Into this:
 
 <img alt="GomesMarcos | CodePen Brain" src="https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif">
-
 
 <a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">Check it out!!🤓</a>
 
@@ -29,5 +26,3 @@
 
 [codepen]: https://codepen.io/gomesmarcos
 [linkedin]: https://www.linkedin.com/in/marcos-gomes-73a520122/
-
-
