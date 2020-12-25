@@ -1,13 +1,7 @@
 # Hi there 👋
 
-### SVG Is a passion
-
-#### I Turned it 
-
 <img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
 
-#### Into this:
-[![Brain pulse](https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif "Brain pulse")](https://media.giphy.com/media/VIokJnxrxLQUM5XcsO/giphy.gif "Brain pulse")
 <br>
 <a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">Check it out!!🤓</a>
 <br>
