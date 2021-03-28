@@ -1,6 +1,8 @@
 # Hi there 👋
 <a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target"_blank">
+<div>
 <img align="middle" alt="GomesMarcos | CodePen Brain" src="https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg" width="100%">
+</div>
 </a>
 <br>
 
