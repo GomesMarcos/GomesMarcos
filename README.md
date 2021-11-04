@@ -13,6 +13,7 @@
 - 🔭 I’m currently working on <a href="https://www.kabum.com.br" target="_blank">Kabum S/A</a> - Brazil 🇧🇷
 - 🌱 I’m currently learning Django and DRF.
 - 🎯 My current goal is to develop a Bonsai Managemant API. I think it'll be better than schedule on Mobile's Calendar.
+- 🎯 I'm also developing a gamificated ear training for musician and music studets with DRF and React. Just for fun and study. =)
 
 
 ### Connect with me: 
