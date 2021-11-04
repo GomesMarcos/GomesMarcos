@@ -1,7 +1,7 @@
 # Hi there 👋
 <a href="https://codepen.io/gomesmarcos/pen/XxzPRL">
   <p align="center">  
-    <img align="center" src="https://lh3.google.com/u/0/d/1BqhbAZfHd5gUOrJ5MwUslyGhjRuNA-4M=w452-h929-iv1" alt="preview.gif" width="100%">
+    <img align="center" src="https://lh3.googleusercontent.com/IDGqknjEh4GsTPDVtL-TepuifSE0QtjyHjO2OgyG0OBgyW4w-vs85XCKCVLDb4ddhiFPPU3hI_4xz2a1E_ER=w1920-h949" alt="preview.gif" width="100%">
   </p>
 </a>
 
