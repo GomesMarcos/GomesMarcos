@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://codepen.io/gomesmarcos/pen/XxzPRL">
+<a href="https://codepen.io/gomesmarcos/pen/XxzPRL" target="_blank">
   <p align="center">  
     <img align="center" src="https://lh3.googleusercontent.com/IDGqknjEh4GsTPDVtL-TepuifSE0QtjyHjO2OgyG0OBgyW4w-vs85XCKCVLDb4ddhiFPPU3hI_4xz2a1E_ER=w1920-h949" alt="preview.gif" width="100%">
   </p>
