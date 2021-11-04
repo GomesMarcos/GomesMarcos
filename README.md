@@ -1,10 +1,9 @@
 # Hi there 👋
-
-<p align="center">
-  <a href="https://codepen.io/gomesmarcos/pen/XxzPRL">
+<a href="https://codepen.io/gomesmarcos/pen/XxzPRL">
+  <p align="center">  
     <img align="center" src="https://lh3.google.com/u/0/d/1BqhbAZfHd5gUOrJ5MwUslyGhjRuNA-4M=w452-h929-iv1" alt="preview.gif" width="100%">
-  </a>
-</p>
+  </p>
+</a>
 
 
 
