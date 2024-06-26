@@ -10,7 +10,7 @@
 <!-- [![brain](https://raw.githubusercontent.com/GomesMarcos/GomesMarcos/ddf35ddfb29fd00e0f906b1ec81fcb50a20b9100/brain.svg)](https://codepen.io/gomesmarcos/pen/XxzPRL) -->
 <br>
 
-- 🔭 I’m currently open to work - Brazil 🇧🇷
+- 🔭 I’m currently working at BeeMon - Brazil 🇧🇷
 - 🏘️ I’m currently studying Software Architecture.
 - 🎹 I'm also developing some musician and music studets' tools with DRF and React. Just for fun and study. =)
 
